@@ -264,9 +264,9 @@ public interface SyntaxConstants {
 
 
 	/**
-	 * Style for highlighting PokÈScript.
+	 * Style for highlighting Pok√©Script.
 	 */
-	String SYNTAX_STYLE_PP				= "test/pp";
+	String SYNTAX_STYLE_PP				= "text/pp";
 	
 	/**
 	 * Style for highlighting properties files.

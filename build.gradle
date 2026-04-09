@@ -9,6 +9,7 @@ buildscript {
 
 plugins {
     id 'com.github.spotbugs' version '4.7.1'
+    id 'maven-publish'
 }
 
 group 'com.fifesoft'

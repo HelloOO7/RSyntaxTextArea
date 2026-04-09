@@ -5,7 +5,7 @@
  * 15/03/2021
  * 19/08/2021
  *
- * PPTokenMaker.java - Scanner for the PokÈScript programming language.
+ * PPTokenMaker.java - Scanner for the Pok√©Script programming language.
  * 
  * This library is distributed under a modified BSD license.  See the included
  * LICENSE file for details.
